@@ -109,7 +109,7 @@ export const CakeCeremony: React.FC<CakeCeremonyProps> = ({ onComplete }) => {
         {!isCut ? (
           <span>✨ Light the candles by clicking on them and drag down to cut the cake! ✨</span>
         ) : (
-          <span>🎉 Happy Birthday Madam Jii! 🎉</span>
+          <span>🎉 Happy Birthday Sainii! 🎉</span>
         )}
       </div>
 
