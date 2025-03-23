@@ -33,7 +33,7 @@ const photos: Photo[] = [
 ];
 
 // Playlist song names
-const playlist = ["Blue", "More Than A Woman", "Wanna Be Yours"];
+const playlist = ["Blue", "wwe", "Wanna Be Yours"];
 // Corresponding local music files
 const songFiles = [songA, songB, songC];
 
