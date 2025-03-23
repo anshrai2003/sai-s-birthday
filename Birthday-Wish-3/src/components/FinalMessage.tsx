@@ -24,7 +24,7 @@ export const FinalMessage: React.FC = () => {
         </motion.div>
 
         <h1 className="text-4xl font-bold text-center text-pink-600 mb-6">
-          Happy Birthday Madam Jii!!
+          Happy Birthday Sainua!!
         </h1>
 
         <p className="text-lg text-gray-700 leading-relaxed font-semibold text-center">
@@ -32,7 +32,7 @@ export const FinalMessage: React.FC = () => {
         </p>
 
         <div className="text-center mt-8 text-2xl">
-          ilysm
+          PYAARA SAINUA MERA
         </div>
       </motion.div>
     </motion.div>
