@@ -33,7 +33,7 @@ const photos: Photo[] = [
 ];
 
 // Playlist song names
-const playlist = ["Blue", "Tum Mile", "Wanna Be Yours"];
+const playlist = ["Blue", "More Than A Woman", "Wanna Be Yours"];
 // Corresponding local music files
 const songFiles = [songA, songB, songC];
 
@@ -157,7 +157,7 @@ export const PhotoGallery: React.FC<PhotoGalleryProps> = ({ onComplete, stopBgMu
               whileTap={{ scale: 0.95 }}
               onClick={onComplete}
             >
-              I wrote something special for you, Madam Jii❤️
+              I wrote something special for you,Sainua❤️
             </motion.button>
           </div>
         </div>
