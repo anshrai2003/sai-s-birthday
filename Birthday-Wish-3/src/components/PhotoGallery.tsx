@@ -6,7 +6,7 @@ import Pic3 from "./img/pic3.jpg";
 
 // Import local playlist music files
 import songA from "./music/Blue.mp3";
-import songB from "./music/tummile.mp3";
+import songB from "./music/morethanawoman.mp3";
 import songC from "./music/wannabeyours.mp3";
 
 interface Photo {
