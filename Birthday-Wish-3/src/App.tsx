@@ -121,8 +121,8 @@ function App() {
   };
 
   const messages = [
-    "Hey Madam Jii✨ It's your day to shine!",
-    "I’ve set up something super vibrant just for you...",
+    "Henlo Sainua✨The Day we've been waiting for has finally come !",
+    "I’ve set up something super cool weird and cringe just for you...",
     "Remember, you light up every room you enter!"
   ];
 
